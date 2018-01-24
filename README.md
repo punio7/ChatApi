@@ -1,2 +1,2 @@
 # ChatApi
-Serwis z różnymi funkcjami niewstawianymi dla bota chatowego Nightbot
+Serwis z różnymi funkcjami wystawianymi dla bota chatowego Nightbot
