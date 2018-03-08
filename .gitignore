@@ -262,3 +262,4 @@ __pycache__/
 Web.config
 /ChatApi/Web.config
 /ChatApi/Properties/PublishProfiles/NighbotChatApi - Web Deploy.pubxml
+/ChatApi/Properties/PublishProfiles/NighbotChatApi - FTP.pubxml
